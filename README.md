@@ -42,11 +42,14 @@
 
 ## 🚀 Featured Projects
 
-### 🥗 S7aFit — AI-Powered Nutrition & Fitness SaaS
+### 🥗 S7aFit — AI-Powered Fitness & Nutrition Platform
 
-**React · Node.js/Express · FastAPI · PostgreSQL · AI/ML**
+An intelligent fitness and nutrition platform featuring an AI coach,
+meal recognition, and personalized calorie recommendations.
 
-A production-deployed HealthTech platform for nutrition and fitness coaching, featuring an **AI coach**, **image-based meal recognition**, calorie and macronutrient estimation, personalized plans, ML predictions and **JWT/OAuth 2.0** authentication.
+**Tech Stack:** React, Node.js, Express, FastAPI, PostgreSQL, AI/ML
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_S7aFit-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s7afit-web.fly.dev/login)
 
 ### 🎯 [StrategyLearn / StratQuest](https://github.com/Youssef-013/StrategyLearn)
 
